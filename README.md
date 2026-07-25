@@ -1,3 +1,6 @@
+![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue)
+![QA](https://img.shields.io/badge/QA-Portfolio-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 # SauceDemo-Manual-Testing
 Manual QA Testing Project including Test Plan, Test Cases, Bug Reports and Test Documentation.
 # SauceDemo Manual Testing
