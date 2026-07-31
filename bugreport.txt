@@ -1,0 +1,59 @@
+Sample Bug Report (Portfolio Demonstration)
+Bug ID
+
+BUG-001
+
+Title
+
+Shopping cart badge is not updated after removing a product
+
+Module
+
+Shopping Cart
+
+Priority
+
+High
+
+Severity
+
+Major
+
+Environment
+Application: SauceDemo
+Browser: Google Chrome
+Operating System: Windows 11
+Preconditions
+
+The user is logged into the application.
+
+Two products have been added to the shopping cart.
+
+Steps to Reproduce
+Log in as standard_user.
+Add two products to the shopping cart.
+Open the shopping cart.
+Remove one product.
+Expected Result
+
+The shopping cart badge should display 1 remaining product.
+
+Actual Result
+
+The shopping cart badge still displays 2 products.
+
+Reproducibility
+
+100%
+
+Status
+
+Open
+
+Attachments
+
+Screenshot (optional)
+
+Note
+
+This is a sample bug report created for portfolio demonstration purposes only. No such issue was identified during the actual testing of the SauceDemo application.
