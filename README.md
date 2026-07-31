@@ -92,7 +92,7 @@ During this project I:
 
 ## 📄 Project Documentation
 
-- 📄 Test Plan![Test Plan](testplan.rtf)
+- 📄 Test Plan![Test Plan](testPlan.pdf)
 - 📄 Test Cases
 - 📄 Test Execution Report
 - 📄 Test Summary Report
