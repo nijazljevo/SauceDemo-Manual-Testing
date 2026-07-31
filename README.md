@@ -12,7 +12,7 @@ Manual QA Testing project for the SauceDemo e-commerce web application.
 
 This project demonstrates my practical manual testing skills through test planning, test case design, execution, bug reporting, and professional QA documentation.
 
-![SauceDemo Application](images/InventoryPage.jpg)
+![SauceDemo Application](InventoryPage.PNG)
 
 ---
 
@@ -123,25 +123,25 @@ During this project I:
 
 ### Inventory Page
 
-![Inventory Page](images/InventoryPage.jpg)
+![Inventory Page](InventoryPage.PNG)
 
 ---
 
 ### Shopping Cart
 
-![Shopping Cart](images/ShoppingCart.jpg)
+![Shopping Cart](ShoppingCart.PNG)
 
 ---
 
 ### Checkout Overview
 
-![Checkout Overview](images/CheckoutOverview.jpg)
+![Checkout Overview](CheckoutOverview.PNG)
 
 ---
 
 ### Order Complete
 
-![Order Complete](images/OrderComplete.jpg)
+![Order Complete](OrderComplete.PNG)
 
 ---
 
