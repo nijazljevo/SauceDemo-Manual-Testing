@@ -117,7 +117,7 @@ During this project I:
 
 ### Login Page
 
-![Login Page](images/loginPage.jpg)
+![Login Page](loginPage.jpg)
 
 ---
 
